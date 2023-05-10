@@ -1,0 +1,8 @@
+{
+  "name": "reactlikea.pro",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "",
+  "license": "MIT"
+}
