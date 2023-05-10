@@ -4,5 +4,8 @@
     "shorten": "netlify-shortener"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^2.1.1"
+  }
 }
